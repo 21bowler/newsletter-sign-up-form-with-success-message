@@ -154,3 +154,10 @@ select.input-error {
 .btn-dismiss:hover{
   background-color: var(--Tomato);
 }
+
+@media screen and (max-width: 768px){
+  .stayupdated-wrapper{
+    grid-template-columns: 1fr;
+    width: 76%;
+  }
+}
