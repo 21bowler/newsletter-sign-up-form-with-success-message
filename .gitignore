@@ -24,7 +24,6 @@ yarn-error.log*
 
 
 package-lock.json
-package.json
 manifest.json
 
 logo192.png
